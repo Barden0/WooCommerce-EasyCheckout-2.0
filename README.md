@@ -2,7 +2,7 @@
 
 So this is an updated version of [WooCommerce EasyCheckout](https://github.com/Barden0/WooCommerce-EasyCheckout)
 
-The reason why I did not update the original plugin is to leave it as minimalistic as possible for those who just want a plugin that works with extra features. With this new version I added the option to choose which billing fields you want to turn off and a WordPress admin settings page to give you much more flexibility.
+The reason why I did not update the original plugin is to leave it as minimalistic as possible for those who just want a plugin that works without extra features. With this new version I added the option to choose which billing fields you want to turn off and a WordPress admin settings page to give you much more flexibility.
 
 ## Features:
 
