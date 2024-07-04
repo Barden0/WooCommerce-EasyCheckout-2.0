@@ -7,7 +7,7 @@ The reason why I did not update the original plugin is to leave it as minimalist
 ## Features:
 
 - **Product Type Detection:** The plugin detects the product type in the user's cart:
-  - **Digital Products Only:** If the cart contains only digital products (virtual/downloadable), it hides the specified billing fields and asks for only the name and email address.
+  - **Digital Products Only:** If the cart contains ONLY digital products (virtual/downloadable), it hides the specified billing fields and asks for only the name and email address.
   - **Physical Products Only:** If the cart contains only physical products, it uses the original billing fields.
   - **Mixed Cart:** If the cart contains both types, it uses the original billing fields so the seller can have a shipping address to send the physical products.
 
